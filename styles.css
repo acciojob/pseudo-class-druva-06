@@ -1,4 +1,7 @@
 /*  your css code here. If applicable */
+p{
+	color:rgb(0,0,0)
+}
 p::before{
 	content:"Before Element ";
 	color:red;
